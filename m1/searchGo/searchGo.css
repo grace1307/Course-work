@@ -1,0 +1,21 @@
+body {
+  background-color: CadetBlue;
+}
+
+.form-inline {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 50vh;
+}
+
+.btn {
+  background-color: black;
+  border: solid black;
+}
+
+.btn:hover {
+  background-color: grey;
+  border-color: grey;
+  color: black;
+}

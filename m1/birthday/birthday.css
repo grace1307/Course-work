@@ -1,0 +1,67 @@
+body {
+  background-color: #e1f2fb;
+}
+
+h5 {
+  color: #ffb6b9;
+  text-shadow: 4px 4px #ffffdd;
+}
+
+p {
+  text-shadow: 4px 4px #f3dfe3;
+  color: #e9b2bc;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  padding-top: 100px;
+}
+
+.container {
+  width: 700px;
+  padding-top: 40px;
+}
+
+.card {
+  margin-top: 30px;
+  background-color: #f1f9f9;
+}
+
+.card-body {
+  padding: 15px 20px;
+  padding-bottom: 0;
+}
+
+.heart-size-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80px;
+  height: 100px;
+}
+
+.carousel-inner {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 380px;
+  width: 700px;
+}
+
+#carouselExampleIndicators {
+  padding-top: 10px;
+  height: 400px;
+  width: 800px;
+}
+
+.img-size {
+  height: 330px;
+  width: 700px;
+}
+
+
+
